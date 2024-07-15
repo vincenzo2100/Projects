@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SOApiTests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

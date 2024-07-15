@@ -1,0 +1,6 @@
+@SOApi_HostAddress = http://localhost:5254
+
+GET {{SOApi_HostAddress}}/SOApi/
+Accept: application/json
+
+###

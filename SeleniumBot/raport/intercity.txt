@@ -1,0 +1,113 @@
+Stacja pocz¹tkowa;Stacja koñcowa;Strona 1;Strona 2;Strona 3;Strona 4;Strona 5;Strona 6;Strona 7;Status
+Gdañsk;Kraków;21.604;1.096;0.531;0.28200000000000003;1.433;467;2795;Znaleziono po³¹czenie
+Gdañsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Obs³uga strony 1
+Gdañsk;Kraków;21.627;1.112;0.522;0.28;1.431;456;2727;Znaleziono po³¹czenie
+Gdañsk;Kraków;39.555;1.204;0.526;0.226;1.422;1107;3585;Znaleziono po³¹czenie
+Gdañsk;Kraków;20.148;1.088;0.525;0.254;1.3840000000000001;483;2739;Znaleziono po³¹czenie
+Gdañsk;Kraków;39.196;1.211;0.495;0.252;1.42;980;3343;Znaleziono po³¹czenie
+Gdañsk;Kraków;38.607;1.124;0.465;0.232;1.429;1149;2792;Znaleziono po³¹czenie
+Gdañsk;Kraków;39.066;1.541;0.498;0.219;1.3980000000000001;863;3556;Znaleziono po³¹czenie
+Gdañsk;Kraków;39.219;1.167;0.5630000000000001;0.224;1.409;842;3368;Znaleziono po³¹czenie
+Gdañsk;Kraków;20.077;1.1460000000000001;0.52;0.26;1.429;563;2694;Znaleziono po³¹czenie
+Gdañsk;Kraków;40.117;1.5030000000000001;0.518;0.222;1.441;871;3516;Znaleziono po³¹czenie
+Gdañsk;Kraków;21.047;1.1480000000000001;0.578;0.246;1.437;488;2224;Znaleziono po³¹czenie
+Gdañsk;Kraków;20.92;1.117;0.552;0.266;1.3940000000000001;478;2706;Znaleziono po³¹czenie
+Gdañsk;Kraków;19.879;1.145;0.551;0.258;1.414;519;2764;Znaleziono po³¹czenie
+Gdañsk;Kraków;19.951;1.12;0.556;0.257;1.3860000000000001;462;2749;Znaleziono po³¹czenie
+Gdañsk;Kraków;24.766000000000002;1.321;0.67;0.336;1.463;714;2798;Znaleziono po³¹czenie
+Gdañsk;Kraków;7.13;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gdañsk;Kraków;26.357;1.155;0.611;0.34500000000000003;1.497;600;2761;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.032;1.189;0.5730000000000001;0.359;1.46;572;2746;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.769000000000002;1.2;0.592;0.313;1.5030000000000001;972;2996;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.287;1.154;0.581;0.338;1.444;668;2743;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.948;1.161;0.591;0.296;1.44;570;2760;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.847;1.216;0.585;0.302;1.476;845;2770;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.982;1.243;0.609;0.444;1.482;651;2787;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.692;5.521;0.621;0.35100000000000003;1.476;703;2754;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.417;1.127;0.5630000000000001;0.307;1.522;570;2350;Znaleziono po³¹czenie
+Gdañsk;Kraków;40.472;1.17;0.508;0.28;1.408;860;3298;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.033;1.187;0.613;0.329;1.5070000000000001;668;2780;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.865000000000002;3.794;0.629;0.325;1.484;598;2779;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.939;1.193;0.5750000000000001;0.36;1.502;631;2942;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.132;1.268;0.547;0.353;1.45;794;2714;Znaleziono po³¹czenie
+Gdañsk;Kraków;46.99;1.212;0.504;0.23700000000000002;1.422;1000;3324;Znaleziono po³¹czenie
+Gdañsk;Kraków;40.887;1.133;0.506;0.24;1.393;852;3334;Znaleziono po³¹czenie
+Gdañsk;Kraków;25.546;1.172;0.557;0.328;1.431;697;2705;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.872;1.1520000000000001;0.5660000000000001;0.27;1.437;484;2734;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.127;1.141;0.667;0.273;1.401;471;2969;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.886;1.095;0.492;0.234;1.3860000000000001;420;2727;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.707;1.081;0.513;0.244;1.4000000000000001;461;2721;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.264;1.182;0.538;0.301;1.932;485;2801;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.736;5.976;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;27.321;1.121;0.548;0.272;1.454;467;2771;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.884;1.1260000000000001;0.543;0.274;1.3980000000000001;448;2749;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.119;1.637;0.586;0.232;1.387;461;2786;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.126;1.118;0.759;0.25;1.436;570;2749;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.374000000000002;1.1;0.534;0.234;1.3940000000000001;756;2715;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.602;1.133;0.635;0.272;1.415;468;2768;Znaleziono po³¹czenie
+Gdañsk;Kraków;7.496;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gdañsk;Kraków;27.478;1.039;0.444;0.201;1.364;394;2739;Znaleziono po³¹czenie
+Gdañsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Obs³uga strony 1
+Gdañsk;Kraków;27.444;1.2;0.5730000000000001;0.264;1.418;493;2759;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.252;1.071;0.541;0.273;1.417;559;2752;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.955000000000002;5.976;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;27.409;1.092;0.55;0.256;1.412;461;2750;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.448;5.969;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;28.29;1.1;0.521;0.264;1.421;576;2727;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.379;4.706;0.49;0.262;1.423;464;2784;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.247;1.066;0.506;0.241;1.3920000000000001;465;2745;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.186;1.154;0.53;0.28400000000000003;1.424;628;2755;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.191;1.1260000000000001;0.553;0.267;1.435;467;2712;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.221;2.99;30.557000000000002;0.28500000000000003;1.458;619;2779;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.493000000000002;1.102;0.544;0.28200000000000003;1.433;458;2719;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.973;1.12;0.606;0.299;1.436;492;2767;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.801000000000002;1.181;0.535;0.28500000000000003;1.405;456;2714;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.556;1.116;0.521;0.269;1.415;448;2711;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.937;1.108;0.537;0.267;1.408;605;2708;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.149;5.982;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;28.119;4.4590000000000005;0.5640000000000001;0.29;1.45;470;2746;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.687;5.978;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;27.266000000000002;1.1500000000000001;0.527;0.279;1.483;516;2764;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.825;1.09;0.522;0.259;1.414;449;2736;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.422;1.084;0.517;0.269;1.431;446;2751;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.201;1.1320000000000001;0.579;0.322;1.5070000000000001;531;2736;Znaleziono po³¹czenie
+Gdañsk;Kraków;26.968;1.116;0.534;0.261;1.438;437;2257;Znaleziono po³¹czenie
+Gdañsk;Kraków;28.102;1.106;0.548;0.24;1.415;467;2717;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.364;1.119;0.525;0.295;1.412;461;2723;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.09;2.411;0.538;0.304;1.448;461;2743;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.938;6.063;0.513;0.249;1.754;443;2807;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.715;1.195;0.532;0.259;1.432;455;2252;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.822;5.973;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;28.1;1.218;0.581;0.309;1.46;715;2283;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.299;6.7410000000000005;0.558;0.244;1.421;459;2319;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.2;1.1;0.514;0.257;1.4040000000000001;562;2740;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.311;5.9750000000000005;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;27.489;5.981;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;46.434;2.876;0.47300000000000003;0.266;1.448;910;3293;Znaleziono po³¹czenie
+Gdañsk;Kraków;28.287;5.987;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;41.843;1.208;0.512;0.224;1.444;866;3368;Znaleziono po³¹czenie
+Gdañsk;Kraków;28.099;1.057;0.505;0.225;1.574;391;2745;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.086000000000002;1.151;0.493;0.268;1.3940000000000001;431;2724;Znaleziono po³¹czenie
+Gdañsk;Kraków;27.132;1.076;0.535;0.264;1.408;434;2730;Znaleziono po³¹czenie
+Gda2ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda2ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda2ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda23ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gda8ñsk;Kraków;0.0;0.0;0.0;0.0;0.0;0;0;Nie uda³o siê za³adowaæ wybranej strony
+Gdañsk;Kraków;27.214000000000002;5.969;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;28.302;5.964;0.0;0.0;0.0;0;0;Nie uda³o siê znaleŸæ elementów danej strony
+Gdañsk;Kraków;27.527;1.129;0.55;0.234;1.379;415;2998;Znaleziono po³¹czenie

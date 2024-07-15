@@ -1,0 +1,3 @@
+Baza danych Biblioteka.
+Baza ma za zadanie kontrolę wypożyczeń w bibliotece. Potecjalny użytkownik bazy ma dostęp do informacji o wypożyczeniach,autorach,wydawnictwach,pracownikach,zarejestrowanych czytelnikach i książkach.
+Spełnia funckję dostępu do danych dotyczących funkcjonowania biblioteki.

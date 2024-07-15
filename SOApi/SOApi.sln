@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOApi", "SOApi\SOApi.csproj", "{E553B11C-FAE9-4CCC-AEC5-149DC408168E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOApiTests", "SOApiTests\SOApiTests.csproj", "{B9CB368A-32F5-4217-AF13-D188AA7E73E0}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E82632E7-9C8E-4068-8478-E190A76D2F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E553B11C-FAE9-4CCC-AEC5-149DC408168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E553B11C-FAE9-4CCC-AEC5-149DC408168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E553B11C-FAE9-4CCC-AEC5-149DC408168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E553B11C-FAE9-4CCC-AEC5-149DC408168E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CB368A-32F5-4217-AF13-D188AA7E73E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CB368A-32F5-4217-AF13-D188AA7E73E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CB368A-32F5-4217-AF13-D188AA7E73E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CB368A-32F5-4217-AF13-D188AA7E73E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82632E7-9C8E-4068-8478-E190A76D2F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82632E7-9C8E-4068-8478-E190A76D2F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82632E7-9C8E-4068-8478-E190A76D2F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82632E7-9C8E-4068-8478-E190A76D2F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200D23C0-994B-4D40-B2CA-35FE2405054A}
+	EndGlobalSection
+EndGlobal

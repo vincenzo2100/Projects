@@ -1,0 +1,43 @@
+name: dockercompose11389751536391350330
+services:
+  soapi:
+    build:
+      context: E:\Zadania\SOApi
+      dockerfile: SOApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: soapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\SAS\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\SAS\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  soapitests:
+    build:
+      context: E:\Zadania\SOApi
+      dockerfile: SOApiTests/Dockerfile
+    image: soapitests
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose11389751536391350330_default
